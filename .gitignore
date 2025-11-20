@@ -62,3 +62,4 @@ playwright/.cache/
 
 .specify/
 .vscode/
+test_output.txt
